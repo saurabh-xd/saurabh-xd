@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Saurabh<br>A passionate Full-Stack developer from India
+#  About Me:
+Hi 👋, I'm Saurabh<br>I write what machines understand, and humans experience.
 
 
 ## 🌐 Socials:
