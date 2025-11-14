@@ -2,8 +2,6 @@
 
 ### A Developer Who Loves Code, Tech & Building Cool Stuff
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-xd&label=Profile views&color=0e75b6&style=flat" alt="saurabh-xd" /> </p>
-
 - 📫 How to reach me **saurabhgarkotiii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
