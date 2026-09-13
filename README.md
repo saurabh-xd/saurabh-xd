@@ -7,16 +7,19 @@
 ## Tech Stack
 
 **Languages**  
-JavaScript · TypeScript · C · C++ · SQL  
+JavaScript · TypeScript · Python
 
 **Frontend**  
-React · Next.js · Tailwind · Framer Motion · Shadcn UI  
+React · Next.js · TypeScript ·Tailwind · Framer Motion · Shadcn UI  
 
 **Backend**  
-Node.js · Express · MongoDB · PostgreSQL · Prisma · Socket.IO · REST  
+Node.js · Express · FastAPI · MongoDB · PostgreSQL · Prisma · WebSockets 
+
+**AI**  
+RAG · Embeddings, · Semantic Search · Vector Databases 
 
 **Tools & Infra**  
-Git · GitHub · Postman · Vercel · VS Code · Docker · Redis  
+Docker · Redis · Git · GitHub · Postman · Vercel · Turborepo 
 
 ## Connect
 [GitHub](https://github.com/saurabh-xd) · 
